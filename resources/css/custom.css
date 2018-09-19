@@ -93,8 +93,6 @@ section {
   margin-top: 10px;
   border-radius: 40px;
   display: flex;
-  max-width: auto;
-  align-items: center;
 }
 
 .jumbotron h1 {
