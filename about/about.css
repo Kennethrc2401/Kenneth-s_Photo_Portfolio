@@ -1,7 +1,7 @@
 body, html {
   /* background-image: linear-gradient(#1c92d2, #f2fcfe); */
   font-size: 18px;
-  background-image: url('../resources/textures/thunderstorm-3625405_1920.jpg');
+  background-image: url('../resources/textures/ocean-3605547_1920.jpg');
 }
 
 a {
@@ -45,7 +45,7 @@ p,
 }
 
 .about p {
-  background-color: black;
+  font-size: 20px;
 }
 
 /* Uncomment this block of code below to see the page layout divided into sections and divs as rectangles */
