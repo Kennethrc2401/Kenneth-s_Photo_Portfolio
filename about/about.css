@@ -18,6 +18,14 @@ p,
   color: white;
 }
 
+h1 {
+
+}
+
+section {
+    padding: 0 3em 3em 3em;
+}
+
 /* About Section */
 .about {
   /* background-image: linear-gradient(#a8c0ff, #3f2b96);  Opion 1*/
@@ -69,6 +77,7 @@ div, section {
 
 }
 
+/* Navbar */
 
 .navbar-default {
   background-color: black;
@@ -79,16 +88,6 @@ div, section {
   background-color: black;
   color: white;
 }
-
-h1 {
-
-}
-
-section {
-    padding: 0 3em 3em 3em;
-}
-
-/* Navbar */
 
 .navbar {
   margin-bottom: 0;
@@ -110,6 +109,10 @@ section {
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
   color: #FFA500; /* Orange */
+}
+
+.Nav-Bottom-Top {
+  font-size: 30px;
 }
 
 /* Adds borders to the Technical Skills */
