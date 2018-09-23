@@ -1,6 +1,10 @@
 /* Fonts */
 
 /* General */
+html {
+  background: linear-gradient(to bottom, #6f86d6 0%, #48c6ef 100%);
+}
+
 body, html {
   font-size: 18px;
   background: linear-gradient(to bottom, #6f86d6 0%, #48c6ef 100%);
