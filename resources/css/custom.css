@@ -2,7 +2,7 @@
 
 /* General */
 html {
-  background: linear-gradient(to bottom, #6f86d6 0%, #48c6ef 100%);
+  background-image: linear-gradient(to top, #fbc2eb 0%, #a6c1ee 100%);  /*background-color: #D1E8E2;*/
 }
 
 body, html {
