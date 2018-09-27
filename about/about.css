@@ -2,6 +2,7 @@ body, html {
   /* background-image: linear-gradient(#1c92d2, #f2fcfe); */
   font-size: 18px;
   background-image: url('../resources/textures/ocean-3605547_1920.jpg');
+  color: white;
 }
 
 a {
@@ -113,6 +114,14 @@ div, section {
 
 .Nav-Bottom-Top {
   font-size: 30px;
+}
+
+.NavBottomTop {
+  color: white;
+}
+
+.dropdown-menu>li>a:hover {
+  background-color: #e5e5ff;
 }
 
 /* Adds borders to the Technical Skills */
