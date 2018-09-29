@@ -73,6 +73,11 @@ div, section {
   color: #FFA500; /* Orange */
 }
 
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a::after, .navbar-default .navbar-nav>li>a:focus {
+  background-color: grey;
+  color: #FFA500;
+}
+
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
   color: #FFA500; /* Orange */
 }
@@ -135,7 +140,7 @@ div, section {
 
 /* Carousel */
 section.Carousel {
-  
+
 }
 
 /* Portfolio Section */
