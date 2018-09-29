@@ -75,7 +75,7 @@ div, section {
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a::after, .navbar-default .navbar-nav>li>a:focus {
   background-color: grey;
-  color: #FFA500;
+  color: #FFA500; /* Orange */
 }
 
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
@@ -97,7 +97,7 @@ div, section {
 }
 
 .sect-title h1 {
-
+  
 }
 
 /*
@@ -136,6 +136,10 @@ div, section {
   font-style: normal;
   font-weight: bolder;
   letter-spacing: 2px;
+}
+
+.ToolsSuplies h1 {
+  color: Blue;
 }
 
 /* Carousel */
