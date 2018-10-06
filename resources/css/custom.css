@@ -97,7 +97,7 @@ div, section {
 }
 
 .sect-title h1 {
-  
+
 }
 
 /*
@@ -118,6 +118,7 @@ div, section {
 .jumbotron h1 {
   /* font-family: 'Cinzel', serif, sans-serif; */
   /* text-shadow: 3px 2px #FFA500; */ /* Orange */
+  margin: 0 auto;
 }
 
 .jumbotron p {
@@ -138,13 +139,23 @@ div, section {
   letter-spacing: 2px;
 }
 
-.ToolsSuplies h1 {
-  color: Blue;
+/* Carousel */
+.carousel {
+
 }
 
-/* Carousel */
 section.Carousel {
 
+}
+
+/* Tools and Supplies section */
+
+.ToolsSuplies {
+
+}
+
+.ToolsSuplies h1 {
+  color: Blue;
 }
 
 /* Portfolio Section */
