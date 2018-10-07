@@ -182,3 +182,17 @@ footer {
   color: lightgray;
   padding: .6em;
 }
+
+
+/* @@media only screen and (max-width: 600px;) {
+  .jumbotron h1 {
+    margin: 0;
+  }
+} */
+
+
+@media screen and (max-width: 768px) {
+.jumbotron .h1, .jumbotron h1 {
+    font-size: 60px;
+  }
+}
